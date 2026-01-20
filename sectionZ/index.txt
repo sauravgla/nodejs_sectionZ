@@ -1,0 +1,9 @@
+
+client-side/front end             Server                   Database
+     |                              |                          |
+     |                              |                          |
+     |                              |                          |
+     React js                     Node js                   MongoDB
+     Next js                      Java                      MySql
+     Vue js                       .Net
+     Angular js                   ROR
